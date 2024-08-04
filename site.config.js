@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "gangdodan",
-    image: "https://github.com/user-attachments/assets/eeb4db5d-0842-4720-b774-2c3edfe27135",
+    image: "https://github-production-user-asset-6210df.s3.amazonaws.com/102658715/354893813-eeb4db5d-0842-4720-b774-2c3edfe27135.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240804%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240804T100625Z&X-Amz-Expires=300&X-Amz-Signature=d6eb05adb834e4cae2717f905386be82711f112227b848ece67297180800957c&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=798121621",
     role: "backend developer",
     bio: "I develop everything using node.",
     email: "morethanmin.dev@gmail.com",
