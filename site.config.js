@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "gangdodan",
-    image: "https://drive.google.com/file/d/1v4WRkOnF2EtNZaJ7TNT35GoAZaGMlNDd/view?usp=sharing",
+    image: "https://drive.google.com/u/1/drive-viewer/AKGpihaMvLfjSyB0_MgrMIaFTnyr1vvU3TnaPCHRBMK0FpEVEOXvSDImyflc88uvNj30Wo8q7C4mJq7p5J_XTVX07X85Irx7MV0qosw=s2560",
     role: "backend developer",
     bio: "I develop everything using node.",
     email: "morethanmin.dev@gmail.com",
