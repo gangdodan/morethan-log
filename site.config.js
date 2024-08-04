@@ -3,6 +3,7 @@ const CONFIG = {
   profile: {
     name: "gangdodan",
     image: "/profile.png",
+    role: "frontend developer",
     bio: "I develop everything using node.",
     email: "morethanmin.dev@gmail.com",
     linkedin: "morethanmin",
